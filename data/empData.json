@@ -1,0 +1,98 @@
+[
+    {
+        "Name" : "Abhilash Majumdar",
+        "ID" : "2122487",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Devipriya M",
+        "ID" : "2128847",
+        "Gender" : "Female",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Soumya Nandan",
+        "ID" : "2126504",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Varshini S",
+        "ID" : "2127035",
+        "Gender" : "Female",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Shivanshu Harsh",
+        "ID" : "2129517",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Jahanvi singh",
+        "ID" : "2127172",
+        "Gender" : "Female",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Pranav Dhore",
+        "ID" : "2121372",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Shruthika S",
+        "ID" : "2128960",
+        "Gender" : "Female",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Mohit Goel",
+        "ID" : "2119371",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Deepak Mehta",
+        "ID" : "2121840",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Manish kumar",
+        "ID" : "2122705",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    },
+    {
+        "Name" : "Arya kishor Jha",
+        "ID" : "2128397",
+        "Gender" : "Male",
+        "Skills" : "React JS, Angular JS",
+        "Project" : "Cognizant Internal",
+        "HCM" : "Alex"
+    }
+]

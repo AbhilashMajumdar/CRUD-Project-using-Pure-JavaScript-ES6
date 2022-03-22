@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Calibri';
+}
+
+.uni-padding{
+    padding: 0 7%;
+}
+
+body{
+    background-color: rgb(0, 52, 102);
+}
+
+/* grid-iconbar  */
+.grid-iconbar, .list-iconbar{
+    height: 90px;
+}
+
+.grid-btn, .list-btn{
+    font-size: 40px;
+    padding: 5px 10px;
+    margin-top: 15px;
+    float: right;
+    margin-right: 40px;
+    background-color: rgb(0, 52, 102);
+    color: white;
+    border: 0;
+}
+
+.grid-btn:hover, .list-btn:hover{
+    background-color: white;
+    color: rgb(0, 52, 102);
+    cursor: pointer;
+}
+
+/* grid-card-view */
+#card-container{
+    width: 100%;
+    height: 1000px;
+
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    grid-template-rows: 280px 280px 280px;
+
+    column-gap: 50px;
+    row-gap: 50px;
+
+    justify-content: center;
+}
+
+.card-image{
+    width: 90px;
+    height: 120px;
+    margin-left: 20px;
+}
+
+.delete-btn{
+    float: right;
+    height: 30px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: white;
+    border: 0;
+    color: red;
+    margin-right: 4px;
+    margin-top: 2px;
+}
+
+.card-info input{
+    background: transparent;
+    border: none;
+    color: black;
+}
+
+.card-info span, input{
+    font-size: 17px;
+    margin-bottom: 4px;
+}
+
+.card-info{
+    text-align: justify;
+    margin-left: 18px;
+}
+
+.card-btn{
+    float: right;
+}
+
+.card-btn button{
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    color: rgb(0, 52, 102);
+    cursor: pointer;
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.save-btn{
+    display: none;
+    margin-left: 50px;
+}
+
+.edit-btn{
+    /* display: none; */
+    margin-left: 50px;
+}
+
+
+/* list-view */
+.table{
+    width: 100%;
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+
+#myTable{
+    text-align: center;
+}
+
+table, th, td{
+    border: 2px solid rgb(0, 52, 102);
+    border-collapse: collapse;
+    padding: 10px 5px;
+}
+
+th{
+    font-size: 22px;
+}
+
+td{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.table-items input{
+    background: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+}
+
+.table-items button{
+    background-color: white;
+    border: none;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.btn-des{
+    text-align: start;
+}
+
+.edit-btn, .save-btn{
+    color: blue;
+}
+
+.delete-btn1{
+    color: red;
+}
